@@ -19,4 +19,4 @@ Install [jupyter](http://jupyter.readthedocs.io/en/latest/install.html) if you h
 
 ## Credits
 
-The credits for this code go to [Andrej Karpathy](https://gist.github.com/karpathy/d4dee566867f8291f086). My favorite DL researcher <3 I've merely created a wrapper to get people started. 
+The credits for this code go to [Andrej Karpathy](https://gist.github.com/karpathy/d4dee566867f8291f086) and Siraj Raval. I've merely created it again and tested to get familier with myself.
